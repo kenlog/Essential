@@ -8,6 +8,7 @@ Essential theme returns a new style to your kanboard.
 
 # Screenshot
 ![screencapture-dashboard](https://user-images.githubusercontent.com/11728231/50729551-3d8ef600-113c-11e9-811a-24aebd2559d9.png)
+![screencapture-board](https://user-images.githubusercontent.com/11728231/50729651-c35f7100-113d-11e9-867a-173978d1ec8b.png)
 ![screencapture-task](https://user-images.githubusercontent.com/11728231/50729552-3ff15000-113c-11e9-81ad-2085b30bac12.png)
 
 Author
