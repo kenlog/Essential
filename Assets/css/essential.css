@@ -2391,7 +2391,7 @@
  .task-board {
      position: relative;
      margin-bottom: 4px;
-     border: 1px solid;
+     border: 2px solid;
      background-color: #f9f9f9!important;
      padding: 5px;
      word-wrap: break-word;
