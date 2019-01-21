@@ -2,6 +2,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kenlog/Essential/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kenlog/Essential/graphs/contributors)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
+[![Downloads](https://img.shields.io/github/downloads/kenlog/Essential/total.svg)](https://github.com/kenlog/Essential/releases)
 
 # Essential plugin (modern theme for kanboard)
 
