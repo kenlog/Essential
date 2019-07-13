@@ -12,6 +12,8 @@
 
 # Essential plugin (modern theme for kanboard)
 
+<noscript><a href="https://liberapay.com/kenlog/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 Essential theme returns a new style to your kanboard.
 
 # Screenshot
