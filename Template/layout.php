@@ -14,7 +14,7 @@
 
         <?= $this->asset->colorCss() ?>
         <?= $this->asset->css('assets/css/vendor.min.css') ?>
-        <?= $this->asset->css('assets/css/auto.min.css') ?>
+        <?= $this->asset->css('assets/css/' . (APP_VERSION < '1.2.29' ? 'app.min.css' : 'auto.min.css')) ?>
         <?= $this->asset->css('assets/css/print.min.css', true, 'print') ?>
         <?= $this->asset->customCss() ?>
 
